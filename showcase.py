@@ -10,7 +10,16 @@ st.markdown('''
 - [Kelompok PasmingBased](https://pasmingbased-part1.streamlit.app/)
 - [Kelompok Mercon Jontor](https://mercon-jontor.streamlit.app/)
 - [Kelompok GoFooodBoleeeh](https://gofooodboleeeh.streamlit.app/) (Yes, with triple `o` and triple `e`)
+- [Kelompok Dududada](https://almanacproject.streamlit.app/)
 - [Kelompok TimPemburu](https://timpemburu.streamlit.app/)
-            - [Kelompok Dududada]
+- [Kelompok MinyakHitam](https://minyakhitam.streamlit.app/)
 ''')
+
+st.write("# Semester Gasal 2023/2024")
+st.markdown('''
+- [Proyek Ambyst](https://proyekambyst.streamlit.app/)
+- [Fantastic Airs](https://fantasticairs-4nhazektex5gh7zwsipn8x.streamlit.app/)
+- [Four Dashboard](https://four-dashboard.streamlit.app/)
+- [Watermelon Project](https://watermelonprojecthappinessindex.streamlit.app/)
+            ''')
 
