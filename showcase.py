@@ -24,6 +24,32 @@ st.markdown('''
             Ariwibowo, SKom, MKom](https://sistem-informasi.fti.trisakti.ac.id/profil/dosen/)
             ''')
 
+st.write('# Semester Gasal 2025/2026')
+st.write('Group names are sorted by alphabetical order.')
+st.write('## Kelas Beasiswa-4.3')
+st.markdown('''
+- [Man Jadda Wajada](https://man-jadda-wajada-real.streamlit.app/)
+- [Obidebug](https://obidebug-ekxzrnzmzswux2sosgfzc7.streamlit.app/)
+- [Remaja Ashabul Kahfi](https://remaja-ashabul-kahfi-myhesrogsc9gvvrpw7hcrk.streamlit.app/)
+- [Wallahi We Are Finished](https://wallahi-we-re-finished.streamlit.app/)
+''')
+
+st.write('## Kelas KKA-5.5')
+st.markdown('''
+- [AADC - Apa Aja Dicodingin](https://aadc-apa-aja-dicodingin-2g7ucj3hhp59nvscmr4pu2.streamlit.app/)
+- [Aku Bukan Anaconda](https://aku-bukan-anaconda-prakbigdata.streamlit.app/)
+- [Kelompok Dua](https://kelompokdua.streamlit.app/)
+- [Lebah Ganteng](https://lebah-ganteng.streamlit.app/)
+- [Mafia Ngoding](https://mafia-ngoding.streamlit.app/)
+- [Mager Code](https://magercoder.streamlit.app/)
+''')
+
+st.write('## Kelas KKA-6.4')
+st.markdown('''
+- [Kelompok1](https://kelompok1-prakbigdata.streamlit.app/)
+- [Kelompok Dua](https://kelompokdua.streamlit.app/)
+''')
+
 st.write("# Semester Gasal 2024/2025")
 st.markdown('''
 - [Kelompok Bunga Abadi](https://tugaskelompok.streamlit.app/)
