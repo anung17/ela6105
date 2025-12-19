@@ -35,13 +35,15 @@ st.markdown('''
 ''')
 
 st.write('## Kelas KKA-5.5')
+st.write('After presentation')
 st.markdown('''
-- [AADC - Apa Aja Dicodingin](https://aadc-apa-aja-dicodingin-2g7ucj3hhp59nvscmr4pu2.streamlit.app/)
-- [Aku Bukan Anaconda](https://aku-bukan-anaconda-prakbigdata.streamlit.app/)
-- [Kelompok Dua](https://kelompokdua.streamlit.app/)
-- [Lebah Ganteng](https://lebah-ganteng.streamlit.app/)
-- [Mafia Ngoding](https://mafia-ngoding.streamlit.app/)
-- [Mager Code](https://magercoder.streamlit.app/)
+1. [AADC - Apa Aja Dicodingin](https://aadc-apa-aja-dicodingin-kwgsjbnfpfzh8wxslnjb6x.streamlit.app/). Previous [version](https://aadc-apa-aja-dicodingin-2g7ucj3hhp59nvscmr4pu2.streamlit.app/)
+2. [Koding Kiding](https://koding-kiding.streamlit.app/)
+3. [Mafia Ngoding](https://mafia-ngoding.streamlit.app/)
+4. [Mager Code](https://magercoder.streamlit.app/)
+5. [Lebah Ganteng](https://lebah-ganteng.streamlit.app/)
+6. [Rajin Ibadah](https://rajinibadah-mhomyv6s2gbhetn4zkyypy.streamlit.app/)
+7. [Aku Bukan Anaconda](https://aku-bukan-anaconda-prakbigdata.streamlit.app/)
 ''')
 
 st.write('## Kelas KKA-6.4')
