@@ -49,7 +49,8 @@ st.markdown('''
 st.write('## Kelas KKA-6.4')
 st.markdown('''
 - [Kelompok1](https://kelompok1-prakbigdata.streamlit.app/)
-- [Kelompok Dua](https://kelompokdua.streamlit.app/)
+- [Kelompok Dua](https://kelompokdua.streamlit.app/) a.k.a. Miko
+- [Kelompok3](https://exchange-rate-asean-analysis-kelompok03.streamlit.app/)
 ''')
 
 st.write("# Semester Gasal 2024/2025")
